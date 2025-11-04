@@ -58,7 +58,7 @@ I’ve built and delivered **100+ high-performance web applications** for client
 
 - 💼 [LinkedIn](#)  
 - 🌍 [Portfolio Website](#)  
-- 📧 **gauravnegi@example.com**  
+- 📧 **negi.gaurav619@gmail.com**  
 
 ---
 
