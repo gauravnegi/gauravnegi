@@ -62,7 +62,7 @@ I’ve built and delivered **100+ high-performance web applications** for client
 ### 🌐 **Connect With Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-negi-468313132/)  
-- 🌍 [Portfolio Website](#)  
+- 🌍 [Portfolio Website](https://github.com/gauravnegi/gauravnegi/blob/main/README.md)  
 - 📧 **negi.gaurav619@gmail.com**
 
 ---
