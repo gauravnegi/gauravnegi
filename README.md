@@ -38,13 +38,8 @@ I’ve built and delivered **100+ high-performance web applications** for client
 
 ---
 
-### 📈 **GitHub Stats**
-
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravnegi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnegi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=gauravnegi&theme=tokyonight&hide_border=true)
-
----
+ 
+ 
 
 ### 🛠️ **Languages & Frameworks**
 
