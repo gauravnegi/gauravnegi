@@ -1,89 +1,66 @@
-<h1 align="center">👋 Hi, I'm Gaurav Negi</h1>
+# 👋 Hi, I'm Gaurav Negi
 
-<p align="center">
-  🚀 <b>Senior Full Stack Laravel Developer</b> | PHP & JavaScript Expert | 12+ Years of Industry Experience  
-</p>
+💻 **Full Stack Laravel Developer | PHP Expert | 12+ Years of Experience**
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-</p>
+I'm a passionate **Full Stack Web Developer** with over **12 years of professional experience**, specializing in **Laravel**, **PHP**, and modern **JavaScript frameworks**.  
+I’ve built and delivered **100+ high-performance web applications** for clients across the globe — from startups to enterprise solutions.
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 **Tech Expertise**
 
-I'm **Gaurav Negi**, a **Senior Full Stack Web Developer** with over **12 years of professional experience** delivering **secure, scalable, and performance-driven web solutions** for global clients.  
-I specialize in **Laravel**, **PHP**, and **modern JavaScript frameworks**, crafting end-to-end systems that balance elegant UI with powerful backend architecture.
+#### 🧩 Backend:
+- Laravel | PHP | Node.js | Express.js  
+- RESTful APIs | MySQL | PostgreSQL | MongoDB  
+- Authentication (JWT, OAuth) | Caching | Queues  
 
-With a proven track record of **100+ successful projects** across industries, I bring deep expertise in software architecture, team leadership, and technical strategy.
+#### 🎨 Frontend:
+- Vue.js | React.js | Blade Templates  
+- JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
 
----
-
-### 🧠 Core Expertise
-
-**Backend Development**
-- Laravel | PHP | Node.js | RESTful APIs | MySQL | PostgreSQL | MongoDB  
-- Authentication (JWT, OAuth2), Caching, Queues, Microservices  
-
-**Frontend Development**
-- Vue.js | React.js | Blade Templates | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
-
-**DevOps & Cloud**
-- AWS | Docker | Nginx | CI/CD Pipelines | GitHub Actions | DigitalOcean  
-
-**Other Skills**
-- Clean Architecture | Domain-Driven Design | Agile | Unit Testing | API Security  
+#### ⚙️ DevOps & Tools:
+- Git | GitHub | Docker | Nginx | AWS | DigitalOcean  
+- Composer | npm | Webpack | Vite | CI/CD (GitHub Actions)
 
 ---
 
-### ⚡ Professional Highlights
-
-- 🧩 Architected and deployed complex full-stack applications serving thousands of users daily  
-- 🌍 Delivered projects for international clients across the US, Europe, and Asia  
-- 🏗️ Led development teams and mentored junior engineers in Laravel and Vue.js  
-- 🛠️ Optimized system performance, reducing load time by up to 60% on multiple projects  
-- 💡 Strong advocate of **code quality**, **scalability**, and **developer experience**
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravnegi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravnegi&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnegi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🧠 **About Me**
+- 💼 Working as a **Senior Laravel Developer** on full-stack projects  
+- 🌍 Experienced in delivering scalable web applications worldwide  
+- 🛠️ Skilled in system architecture, performance optimization, and secure coding  
+- 📚 Lifelong learner — currently exploring **Laravel Octane**, **Inertia.js**, and **TALL Stack (Tailwind, Alpine, Laravel, Livewire)**  
+- 🤝 Open to collaborations and freelance opportunities  
 
 ---
 
-### 🛠️ Tech Stack
+### 📈 **GitHub Stats**
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Backend** | Laravel, PHP, Node.js, RESTful APIs, MySQL, PostgreSQL |
-| **Frontend** | Vue.js, React.js, JavaScript (ES6+), Blade, TailwindCSS |
-| **DevOps** | Docker, GitHub Actions, AWS, Nginx, DigitalOcean |
-| **Tools** | Git, Composer, npm, Webpack, Vite |
-| **Practices** | Clean Code, CI/CD, TDD, Agile Development |
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravnegi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnegi&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=gauravnegi&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ **Languages & Frameworks**
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="mailto:gauravnegi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-> _“I believe great software is built with clarity, collaboration, and craftsmanship — not just code.”_  
+### 🌐 **Connect With Me**
+
+- 💼 [LinkedIn](#)  
+- 🌍 [Portfolio Website](#)  
+- 📧 **gauravnegi@example.com**  
+
+---
+
+> _"Great software isn’t built overnight — it’s crafted with passion, discipline, and precision."_  
 > — **Gaurav Negi**
