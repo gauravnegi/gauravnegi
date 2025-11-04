@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/gauravnegi/gauravnegi/blob/main/assets/banner.png" alt="Gaurav Negi | Full Stack Laravel Developer" width="100%" />
+</p>
+
 # 👋 Hi, I'm Gaurav Negi
 
 💻 **Full Stack Laravel Developer | PHP Expert | 12+ Years of Experience**
@@ -56,9 +61,9 @@ I’ve built and delivered **100+ high-performance web applications** for client
 
 ### 🌐 **Connect With Me**
 
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-negi-468313132/)  
 - 🌍 [Portfolio Website](#)  
-- 📧 **negi.gaurav619@gmail.com**  
+- 📧 **negi.gaurav619@gmail.com**
 
 ---
 
