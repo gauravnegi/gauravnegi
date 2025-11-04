@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/gauravnegi/gauravnegi/blob/main/assets/banner.png" alt="Gaurav Negi | Full Stack Laravel Developer" width="100%" />
+  <img src="https://github.com/gauravnegi/gauravnegi/blob/main/bannner.png" alt="Gaurav Negi | Full Stack Laravel Developer" width="100%" />
 </p>
 
 # 👋 Hi, I'm Gaurav Negi
