@@ -45,6 +45,85 @@ I’ve architected and delivered **100+ high-performance, secure, and scalable w
 
 ---
 
+## 🎨 **Featured Portfolio Projects**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PORTFOLIO_PROJECTS-DEMO-blue?style=for-the-badge&logo=github" alt="Portfolio Projects" />
+</p>
+
+<p align="center">
+  <b>Modern, Scalable, and Fully-Responsive Web Applications</b><br/>
+  <i>Crafted using Laravel, Vue.js, React, and Tailwind CSS</i>
+</p>
+
+---
+
+### 🏨 **HotelHub – Hotel Management & Booking System**
+<p>
+A complete hotel management solution with admin & user dashboards, dynamic room listings, and integrated payment gateway.
+</p>
+<p>
+<b>Tech Stack:</b> Laravel, Vue.js, MySQL, TailwindCSS  
+<br/>
+<a href="https://dummyhotelhub.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-green?style=for-the-badge" />
+</a>
+</p>
+<hr/>
+
+### 🛍️ **ShopSmart – E-commerce Platform**
+<p>
+Multi-vendor online store with smart search, cart, checkout, and order tracking system with admin inventory management.
+</p>
+<p>
+<b>Tech Stack:</b> Laravel, React, Stripe API, Bootstrap  
+<br/>
+<a href="https://dummyshopsmart.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-blue?style=for-the-badge" />
+</a>
+</p>
+<hr/>
+
+### 📚 **EduPro LMS – Learning Management System**
+<p>
+Online course platform supporting video lectures, quizzes, and instructor dashboards — built with Livewire for dynamic UI updates.
+</p>
+<p>
+<b>Tech Stack:</b> Laravel, Livewire, TailwindCSS, Alpine.js  
+<br/>
+<a href="https://dummyedupro.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-orange?style=for-the-badge" />
+</a>
+</p>
+<hr/>
+
+### 🏠 **EstateView – Real Estate CRM**
+<p>
+Property listing platform with lead management CRM, search filters, and map integration.
+</p>
+<p>
+<b>Tech Stack:</b> CodeIgniter, jQuery, MySQL  
+<br/>
+<a href="https://dummyestateview.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-teal?style=for-the-badge" />
+</a>
+</p>
+<hr/>
+
+### 📰 **Newsly CMS – Headless Blog System**
+<p>
+Dynamic content management system for publishing blogs, news, and media via REST APIs and headless frontend.
+</p>
+<p>
+<b>Tech Stack:</b> Laravel, Vue 3, API Platform, TailwindCSS  
+<br/>
+<a href="https://dummynewsly.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-purple?style=for-the-badge" />
+</a>
+</p>
+
+---
+
 ### 🛠️ **Languages & Frameworks**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
